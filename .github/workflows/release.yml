@@ -54,7 +54,7 @@ jobs:
           API_KEY_ID: ${{ secrets.api_key_id }}
           API_KEY_ISSUER_ID: ${{ secrets.api_key_issuer_id }}
 
-    - name: run dir
-      if: startsWith(matrix.os, 'windows')
-      run: |
-        dir
+      - name: run dir
+        if: startsWith(matrix.os, 'windows')
+        run: |
+          dir
