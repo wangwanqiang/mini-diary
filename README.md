@@ -5,6 +5,8 @@
   <img src="website/img/screenshot-1.png" width="100%" alt="Screenshot">
 </div>
 
+
+
 **Mini Diary is no longer maintained. Please use a different journal app instead.**
 
 ## Website
